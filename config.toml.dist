@@ -1,0 +1,10 @@
+[general]
+debug= # Bool
+port= # Int
+
+[database]
+host= # Str
+name= # Str
+user= # Str
+password= # Str
+port= # int
